@@ -15,7 +15,7 @@ clc
 set(0,'DefaultAxesFontname','Helvetica')                                %Set default font type
 set(0,'DefaultAxesFontSize',20)                                         %Set default font size
 format short g                                                          %Set display format
-% LHN_test233
+% testetets
 disp(' ')
 disp('----------------------------------------------------------------------------------------------')
 disp('Bayesian Dynamic Linear Model')
