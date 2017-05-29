@@ -15,7 +15,7 @@ clc
 set(0,'DefaultAxesFontname','Helvetica')                                %Set default font type
 set(0,'DefaultAxesFontSize',20)                                         %Set default font size
 format short g                                                          %Set display format
-% feature 11
+% feature 1
 disp(' ')
 disp('----------------------------------------------------------------------------------------------')
 disp('Bayesian Dynamic Linear Model')
